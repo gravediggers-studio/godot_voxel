@@ -33,6 +33,7 @@ public:
 		CHANNEL_DATA5,
 		CHANNEL_DATA6,
 		CHANNEL_DATA7,
+		CHANNEL_BIOME,
 		// Arbitrary value, 8 should be enough. Tweak for your needs.
 		MAX_CHANNELS
 	};
