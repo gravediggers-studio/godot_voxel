@@ -34,6 +34,8 @@ public:
 	StringName enable_baked_lighting;
 	StringName pivot_mode;
 
+	StringName channel_biome;
+
 	StringName u_transition_mask;
 	StringName u_block_local_transform;
 	StringName u_lod_fade;

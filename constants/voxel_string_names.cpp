@@ -39,6 +39,8 @@ VoxelStringNames::VoxelStringNames() {
 	enable_baked_lighting = StringName("enable_baked_lighting");
 	pivot_mode = StringName("pivot_mode");
 
+	channel_biome = StringName("CHANNEL_BIOME");
+
 	u_transition_mask = StringName("u_transition_mask");
 	u_block_local_transform = StringName("u_block_local_transform");
 	u_lod_fade = StringName("u_lod_fade");
